@@ -1,0 +1,96 @@
+{
+  "result": true,
+  "weapons": [
+    {
+      "id": "WID_Assault_AutoDrum_Athena_R_Ore_T03",
+      "enabled": false,
+      "name": "Drum Gun",
+      "description": "Assault Weapon: A heavy weapon with high damage, an extreme rate of fire, and a huge magazine size. Very inaccurate unless aiming down sights from a fixed position, and firing in short bursts.",
+      "rarity": "rare",
+      "type": "standard",
+      "gameplayTags": [
+        "Gameplay.DamageSource.Weapon",
+        "Weapon.Ranged.SMG",
+        "Bacchus.Shoot.SMG.Auto",
+        "Rarity.Rare",
+        "Item.Weapon.Ranged.Assault.Drum",
+        "phoebe.items.DrumGun",
+        "phoebe.weapon.ranged.smg",
+        "phoebe.weapon.trait.fullauto"
+      ],
+      "searchTags": "Guns Assault Rifles Machinegun MediumBullets Automatic",
+      "images": {
+        "icon": "https://media.fortniteapi.io/images/T-Icon-Weapons-SK-DrumGun-L.png",
+        "background": "https://media.fortniteapi.io/images/T-Icon-Weapons-SK-DrumGun-L_bg-rare.png"
+      },
+      "mainStats": {
+        "DmgPB": 23,
+        "FiringRate": 8,
+        "ClipSize": 40,
+        "ReloadTime": 3,
+        "DamageZone_Critical": 2
+      }
+    },
+    {
+      "id": "WID_Assault_AutoDrum_Athena_UC_Ore_T03",
+      "enabled": false,
+      "name": "Drum Gun",
+      "description": "Assault Weapon: A heavy weapon with high damage, an extreme rate of fire, and a huge magazine size. Very inaccurate unless aiming down sights from a fixed position, and firing in short bursts.",
+      "rarity": "uncommon",
+      "type": "standard",
+      "gameplayTags": [
+        "Gameplay.DamageSource.Weapon",
+        "Weapon.Ranged.SMG",
+        "Bacchus.Shoot.SMG.Auto",
+        "Rarity.Uncommon",
+        "Item.Weapon.Ranged.Assault.Drum",
+        "phoebe.items.DrumGun",
+        "phoebe.weapon.ranged.smg",
+        "phoebe.weapon.trait.fullauto"
+      ],
+      "searchTags": "Guns Assault Rifles Machinegun MediumBullets Automatic",
+      "images": {
+        "icon": "https://media.fortniteapi.io/images/T-Icon-Weapons-SK-DrumGun-L.png",
+        "background": "https://media.fortniteapi.io/images/T-Icon-Weapons-SK-DrumGun-L_bg-uncommon.png"
+      },
+      "mainStats": {
+        "DmgPB": 22,
+        "FiringRate": 8,
+        "ClipSize": 40,
+        "ReloadTime": 3.1500000953674316,
+        "DamageZone_Critical": 2
+      }
+    },
+    {
+      "id": "WID_Assault_AutoHigh_Athena_SR_Ore_T03",
+      "enabled": true,
+      "name": "Assault Rifle",
+      "description": "Assault Weapon: Fully Automatic. Flexible assault rifle capable of handling all types of combat scenarios. High rate of fire with solid accuracy when aiming down sights and firing in controlled bursts.",
+      "rarity": "legendary",
+      "type": "standard",
+      "gameplayTags": [
+        "Gameplay.DamageSource.Weapon",
+        "Bacchus.Shoot.AR.Auto",
+        "Bacchus.Shoot.AR.Precision",
+        "Weapon.Ranged.Assault.Standard",
+        "Rarity.SuperRare",
+        "Item.Weapon.Ranged.Assault.Auto.HighTier",
+        "phoebe.weapon.ranged.rifle",
+        "phoebe.weapon.trait.fullauto",
+        "phoebe.items.assault_rifle"
+      ],
+      "searchTags": "Guns Assault Rifles Machinegun LightBullets Automatic",
+      "images": {
+        "icon": "https://media.fortniteapi.io/images/T-Icon-Weapons-AssaultRifleMark2TT-L.png",
+        "background": "https://media.fortniteapi.io/images/T-Icon-Weapons-AssaultRifleMark2TT-L_bg-legendary.png"
+      },
+      "mainStats": {
+        "DmgPB": 36,
+        "FiringRate": 5.5,
+        "ClipSize": 30,
+        "ReloadTime": 2.069999933242798,
+        "DamageZone_Critical": 2
+      }
+    }
+  ]
+}
