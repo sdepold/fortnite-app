@@ -20,6 +20,8 @@ export default class extends React.Component {
     this.setState({
       term: e.target.value
     });
+
+    this.props.onChange && this.props.onChange(e.target.value);
   }
 
   render() {

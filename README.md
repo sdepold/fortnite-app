@@ -2,9 +2,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Todo
 
-- https://dashboard.fortniteapi.io/ --> create account
-- curl -H 'Authorization: key' https://fortniteapi.io/weapons/list
 - Trying to build something like this https://db.fortnitetracker.com/weapons
+- Implement filtering
+- Fetch data from Fortnite API (https://fortniteapi.io/)
+- Styling
+- Testing
+
+
+
 
 ## Available Scripts
 
