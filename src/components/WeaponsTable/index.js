@@ -1,7 +1,7 @@
 import React from "react";
 import data from "./fixture.json";
 import WeaponsRow from "../WeaponsRow";
-
+import SearchForm from "../SearchForm";
 
 export default class extends React.Component {
   constructor(props) {
@@ -17,6 +17,7 @@ export default class extends React.Component {
     return (
       <div>
         <h2>Weapons</h2>
+        <SearchForm />
         <table>
           <thead>
             <th>Weapon</th>

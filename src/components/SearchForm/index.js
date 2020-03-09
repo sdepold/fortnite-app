@@ -35,6 +35,7 @@ export default class extends React.Component {
           name="term"
           placeholder="Search term"
           onChange={e => this.handleInputChange(e)}
+          autocomplete="off"
         />
         <input type="submit" value="Search" />
       </form>
