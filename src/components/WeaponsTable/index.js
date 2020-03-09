@@ -16,10 +16,9 @@ export default class extends React.Component {
   componentDidMount() {
     fetch('https://fortniteapi.io/weapons/list', {
       headers: {
-        Authorization: 'c8d241ed-c8602303-c77f8a36-bf96fe1a'
+        Authorization: 'key'
       }
     }).then(res=>res.json()).then(({weapons})=>this.setState({data:{weapons}}))
-
   }
 
   handleSearchFormChange(term) {
